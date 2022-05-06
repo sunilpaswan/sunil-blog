@@ -1,6 +1,6 @@
 const config = {
     development: {
-        name: 'sympl',
+        name: 'Sunil Paswan',
         description: 'Thoughts, stories and ideas.',
         twitterHandle: '@mrvautin',
         baseUrl: 'http://localhost:4965',
@@ -18,9 +18,9 @@ const config = {
         ]
     },
     production: {
-        name: 'sympl',
+        name: 'Sunil Paswan',
         description: 'Thoughts, stories and ideas.',
-        twitterHandle: '@mrvautin',
+        twitterHandle: '@3dFired',
         baseUrl: 'https://blog.squido.org',
         sourcesExt: 'markdown',
         summaryLength: 250,
